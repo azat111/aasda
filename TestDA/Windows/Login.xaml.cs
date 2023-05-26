@@ -31,6 +31,8 @@ namespace TestDA.Windows
 			MyCaptha.Visibility = Visibility.Hidden;
 			CapBtn.Visibility = Visibility.Hidden;
 			//var path = @"C:\Users\azat\Desktop\Images";
+			//var path = @"C:\Users\azat\Desktop\Images";
+			//var path = @"C:\Users\azat\Desktop\Images";
 			//using (TestDemoContext context = new TestDemoContext())
 			//{
 			//	var iamges = Directory.GetFiles(path);
